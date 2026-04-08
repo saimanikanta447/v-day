@@ -14,7 +14,6 @@ const noMessages = [
   "Are you positive? 🤔",
   "Come on, just one game 🏐",
   "I’ll set, you spike 😄",
-  "Don’t bench me like this 😢",
   "We’d be a great team /challenge !",
   "Last chance! 😭",
   "You can't catch my serve anyway 😜"
