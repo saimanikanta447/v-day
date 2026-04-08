@@ -5,17 +5,7 @@
 }
 
 body {
-    background-color: #FFE4E8;
-    font-family: 'Nunito', sans-serif;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    background-image:
-        radial-gradient(circle at 15% 85%, #ffb3c1 0%, transparent 40%),
-        radial-gradient(circle at 85% 15%, #ff8fa3 0%, transparent 40%),
-        radial-gradient(circle at 50% 50%, #fff0f3 0%, transparent 60%);
+  background: linear-gradient(to right, #f7e9a0, #ffd36b);
 }
 
 /* Floating hearts background */
