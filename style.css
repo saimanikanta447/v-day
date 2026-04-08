@@ -5,13 +5,9 @@
 }
 
 body {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-              url("images/vollyeball.jpg.jpg");
+  background-image: url("images/vollyeball.jpg");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  margin: 0;
-  height: 100vh;
 }
 
 /* Floating hearts background */
