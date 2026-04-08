@@ -10,15 +10,14 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+   "No",
+  "Are you positive? 🤔",
+  "Come on, just one game 🏐",
+  "I’ll set, you spike 😄",
+  "Don’t bench me like this 😢",
+  "We’d be a great team!",
+  "Last chance! 😭",
+  "You can't catch my serve anyway 😜"
 ]
 
 const yesTeasePokes = [
