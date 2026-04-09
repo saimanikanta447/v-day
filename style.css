@@ -5,11 +5,11 @@
 }
 
 body {
-    background-image: url("https://raw.githubusercontent.com/saimanikanta447/Images/main/volleyball.jpg");
+    background-image: url("https://saimanikanta447.github.io/Images/volleyball.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
+}}
 
 /* Floating hearts background */
 .hearts-bg {
