@@ -15,7 +15,6 @@ const noMessages = [
   "Come on, just one game 🏐",
   "I’ll set, you spike 😄",
   "We’d be a great team /challenge !",
-  "Last chance! 😭",
   "You can't catch my serve anyway 😜"
 ]
 
@@ -65,7 +64,7 @@ function toggleMusic() {
 
 function handleYesClick() {
     if (!runawayEnabled) {
-        // Tease her to try No first
+        // Tease to try No first
         const msg = yesTeasePokes[Math.min(yesTeasedCount, yesTeasePokes.length - 1)]
         yesTeasedCount++
         showTeaseMessage(msg)
